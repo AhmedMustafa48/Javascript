@@ -22,3 +22,6 @@ b = 13;
 console.log(b);
 
 console.log("========== Lets talk about temporal dead zone ");
+
+console.log(letTdz);
+let letTdz = 1;
