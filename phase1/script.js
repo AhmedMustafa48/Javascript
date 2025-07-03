@@ -25,3 +25,6 @@ console.log("========== Lets talk about temporal dead zone ");
 
 console.log(letTdz);
 let letTdz = 1;
+
+console.log(constTdz);
+const constTdz = 3.14;
